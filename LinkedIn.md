@@ -15,4 +15,5 @@ print('Yearly Wage:', x)
 ___
 
 Click [here](https://www.linkedin.com/in/dylancolbymay/) to check out my LinkedIn page
+
 Click [here](README.md) to return to the main mage
