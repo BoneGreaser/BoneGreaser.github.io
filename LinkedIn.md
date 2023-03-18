@@ -6,8 +6,11 @@ Frankly I still want to get rich and creating a video game is one of the best pa
 To show off my amazing coding skills I've posted some advanced code below that performs advanced mathematical calculations.
 ___
 daily = float(input('Daily Hours Worked:')) #hours worked daily
+
 wage = float(input('Hourly Wage:')) #hourly wage
+
 x = float((daily * wage) * 365)
+
 print('Yearly Wage:', x)
 ___
 
