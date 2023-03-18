@@ -4,7 +4,7 @@
 | Burger | Nice |
 | Taco | Great |
 | Ramen | Dang Good |
-| Sushi | Yuck |
+| Sushi | **Yuck** |
 | Cookies | Any Time |
 | Ice Cream | Ehh Maybe |
 | Cheese | 8/10 |
